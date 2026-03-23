@@ -16,10 +16,10 @@ I am a software developer focused on **Backend Engineering, AI/ML, and Systems A
 
 ### Featured Projects
 
-#### [Waste Image Recognition & Analysis Platform](https://github.com/HeadlessToad/REPLACE_WITH_YOUR_REPO_NAME)
+#### [Waste Image Recognition & Analysis Platform](https://github.com/HeadlessToad/Final-Project.git)
 *Developed a cloud-native platform for real-time image classification. I engineered an end-to-end **automated ML training pipeline** and architected the infrastructure on **GCP using Docker** for seamless scalability.*
 
-#### [YouTube Replica Backend & Mobile](https://github.com/HeadlessToad/REPLACE_WITH_YOUR_REPO_NAME)
+#### [YouTube Replica Backend & Mobile](https://github.com/HeadlessToad/Mytube.git)
 *Built a distributed mobile application featuring an **Android Studio** frontend and a custom **Node.js** backend. Designed modular **REST APIs** and implemented relational data persistence via SQL.*
 
 ---
