@@ -29,4 +29,4 @@ I am a software developer focused on **Backend Engineering, AI/ML, and Systems A
 * **Email:** [doppelger.oa@gmail.com](mailto:doppelger.oa@gmail.com)
 
 ---
-*"Building robust, scalable systems with a mission-first mindset."*
+*"Beyond the diagrams and code, I believe innovation is only truly meaningful when it serves a human purpose. I am driven to contribute to projects that translate complex engineering into a tangible, positive impact on people’s lives."*
