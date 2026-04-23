@@ -8,19 +8,26 @@ I am a software developer focused on **Backend Engineering, AI/ML, and Systems A
 
 ### Expertise & Tech Stack
 
-* **Languages:** Python, Java, C++, Node.js, SQL, JavaScript.
-* **AI/DevOps:** Automated ML Pipelines (MLOps), Docker, GCP, Linux (Ubuntu).
-* **Backend & Systems:** REST APIs, System Architecture, Object-Oriented Programming (OOP), SQL/NoSQL.
+* **Languages:** Python (FastAPI), Java, C++, Node.js, SQL, JavaScript.
+* **AI & DevOps:** Automated ML Pipelines (MLOps), Docker, Google Cloud Platform (Cloud Run, GCS), Linux.
+* **Backend & Systems:** RESTful API Design, Microservices, System Architecture, SMTP/Communication Protocols.
 
 ---
 
 ### Featured Projects
 
+#### [Villa Guest Engagement & CRM Automation](https://github.com/HeadlessToad/Villa-Contact-Automation)
+* **Developed** a production-ready serverless backend that automated 100% of guest outreach workflows by engineering a **FastAPI** webhook listener integrated with **Google Sheets**.
+* **Architected** a cloud-native infrastructure on **GCP Cloud Run** using **Docker**, utilizing **Google Cloud Storage (GCS)** as a persistent registry to eliminate duplicate communications.
+* **Orchestrated** multi-channel engagement by integrating **Meta’s WhatsApp Cloud API** and **SMTP SSL**, ensuring 99.9% delivery reliability through robust error handling and data normalization.
+
 #### [Waste Image Recognition & Analysis Platform](https://github.com/HeadlessToad/Final-Project.git)
-*Developed a cloud-native platform for real-time image classification. I engineered an end-to-end **automated ML training pipeline** and architected the infrastructure on **GCP using Docker** for seamless scalability.*
+* **Engineered** an end-to-end automated ML training pipeline on **GCP** that reduced model deployment cycles by containerizing workflows with **Docker**.
+* **Architected** a scalable cloud-native platform for real-time image classification, facilitating seamless transitions from research models to production environments.
 
 #### [YouTube Replica Backend & Mobile](https://github.com/HeadlessToad/Mytube.git)
-*Built a distributed mobile application featuring an **Android Studio** frontend and a custom **Node.js** backend. Designed modular **REST APIs** and implemented relational data persistence via SQL.*
+* **Spearheaded** the development of a distributed application featuring an **Android Studio** mobile frontend and a custom **Node.js** backend.
+* **Optimized** system performance by designing modular **REST APIs** and implementing relational data persistence via **SQL** to handle high-frequency metadata requests.
 
 ---
 
