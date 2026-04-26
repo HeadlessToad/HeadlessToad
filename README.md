@@ -19,7 +19,7 @@ I am a software developer focused on **Backend Engineering, AI/ML, and Systems A
 #### [Villa Guest Engagement & CRM Automation](https://github.com/HeadlessToad/Villa-Contact-Automation)
 * **Developed** a production-ready serverless backend that automated 100% of guest outreach workflows by engineering a **FastAPI** webhook listener integrated with **Google Sheets**.
 * **Architected** a cloud-native infrastructure on **GCP Cloud Run** using **Docker**, utilizing **Google Cloud Storage (GCS)** as a persistent registry to eliminate duplicate communications.
-* **Orchestrated** multi-channel engagement by integrating **Meta’s WhatsApp Cloud API** and **SMTP SSL**, ensuring 99.9% delivery reliability through robust error handling and data normalization.
+* **Orchestrated** multi-channel engagement by integrating **SMTP SSL**, ensuring 99.9% delivery reliability through robust error handling and data normalization.
 
 #### [Waste Image Recognition & Analysis Platform](https://github.com/HeadlessToad/Final-Project.git)
 * **Engineered** an end-to-end automated ML training pipeline on **GCP** that reduced model deployment cycles by containerizing workflows with **Docker**.
