@@ -29,23 +29,6 @@ I am a software developer focused on **Backend Engineering, AI/ML, and Systems A
 * **Spearheaded** the development of a distributed application featuring an **Android Studio** mobile frontend and a custom **Node.js** backend.
 * **Optimized** system performance by designing modular **REST APIs** and implementing relational data persistence via **SQL** to handle high-frequency metadata requests.
 
-* #### 🏨 Villa Contact Automation
-*A production-ready backend automation service driving instantaneous guest engagement by integrating spreadsheet-driven CRM rows with enterprise communication APIs.*
-
-| Metric / Attribute | Details |
-| :--- | :--- |
-| **Tech Stack** | Python 3.12, FastAPI, Pydantic v2, Uvicorn, Google Cloud Run, Google Cloud Storage, Meta WhatsApp Cloud API, SMTP |
-| **Architecture**| Serverless Webhook Engine / Event-Driven Automation |
-| **Core Focus** | High-reliability delivery, defensive key-normalization, and idempotency tracking |
-
-* **Architected and Deployed** a containerized FastAPI webhook engine to Google Cloud Run to process inbound booking-inquiry payloads via an automated spreadsheet pipeline.
-* **Engineered a Robust Payload Normalizer** utilizing Pydantic v2 to isolate core models from brittle, changing spreadsheet column headers, resolving dynamic headers with non-alphanumeric characters into stable `snake_case` fields.
-* **Integrated Meta WhatsApp Cloud API & Secure SMTP Suite** to dynamically build localized, positional multi-parameter template payloads for automated custom WhatsApp dispatch alongside high-fidelity fallback email notifications with dynamic brochure attachments.
-* **Implemented Fault-Tolerant Auditing** by constructing a decentralized Cloud Storage registry tracking sent communication metadata with automated open-fail configurations to maximize service continuity.
-* **Streamlined CI/CD Infrastructure** via a parameterized Google Cloud Build setup, wrapping continuous deployment to `europe-west1` and automated secret injection (`GOOGLE_CREDENTIALS_JSON`) inside a single-command deployment manifest.
-
-➡️ **[View Repository](https://github.com/HeadlessToad/Villa-Contact-Automation)**
-
 ---
 
 ### Connect with Me
